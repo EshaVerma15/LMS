@@ -1,2 +1,2 @@
 # LMS
-Learning management system
+Learning management system--MERN stack project.
